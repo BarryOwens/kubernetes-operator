@@ -10,10 +10,10 @@ entries:
       repository: https://charts.jetstack.io
       version: 1.5.1
     description: Kubernetes native operator which fully manages Jenkins on Kubernetes
-    icon: https://raw.githubusercontent.com/jenkinsci/kubernetes-operator/master/assets/jenkins-operator-icon.png
+    icon: https://raw.githubusercontent.com/barryowens/kubernetes-operator/master/assets/jenkins-operator-icon.png
     name: jenkins-operator
     urls:
-    - https://raw.githubusercontent.com/jenkinsci/kubernetes-operator/master/chart/jenkins-operator/jenkins-operator-0.7.0.tgz
+    - https://raw.githubusercontent.com/barryowens/kubernetes-operator/master/chart/jenkins-operator/jenkins-operator-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 0.6.0
